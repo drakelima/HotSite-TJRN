@@ -1,0 +1,171 @@
+.bg_header{
+    width: 100%;
+    margin: 0 auto;
+}
+.cabecalho{
+    margin-left: 30%;
+}
+@media(max-width: 1580px) {
+    header{
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width: 1319px) {
+    header{
+        margin-bottom: 10px;
+    }
+    .-maior{
+        margin-top: 10px;
+    }
+}
+  @media(max-width: 991px) {
+    header{
+        margin-bottom: 10px;
+    }
+    .cronograma{
+        display: block;
+        width: 62%;
+    }
+    .cronograma.-ultimo{
+        padding-left: 6%;
+    }
+    .video{
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .fotos{
+        float: none;
+        margin-right: 0%;
+        display: block;
+        text-align: center;
+    }
+    .tamanho_imagens{
+        display: inline-block;
+        width: 600px;
+        height: 450px;
+        margin-top: 30px;
+    }
+
+    .texto_form form{
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .botao_psocial{
+        margin-top: 30px;
+    }
+
+    .botao_psocial a{
+        margin-bottom: 30px;
+    }
+    
+  }
+@media(max-width: 749px) {
+    .quadro{
+        margin-top: 10px;
+    }
+    nav ul{
+        text-align: center;
+    }
+    .icones{
+        margin: 0 auto;
+    }
+    .cronograma{
+        width: 85%;
+    }
+    .cabecalho{
+        margin-left: 0px;
+    }
+    header{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .tamanho_imagens{
+        width: 100%;
+        height: 50%;
+        margin-top: 30px;
+    }
+    .texto_form form{
+        margin-top: 20px;
+    }
+    .botao_psocial{
+        margin-top: 30px;
+    }
+    .botao_psocial a{
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width: 503px) {
+    header{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .conteudo h2{
+        text-align: center;
+    }
+    content .conteudo p{
+        text-align: center;
+    }
+    .palestrantes{
+        text-align: center;
+    }
+    .palestrantes li{
+        text-align: center;
+        margin: 25px 0px 0px 0px;
+    }
+    .palestrantes p{
+        text-align: center;
+    }
+    .palestrantes{
+        padding: 0% 0% 0% 2%;
+        display: inline-block;
+        justify-content: none;
+        width: 100%;
+        align-items: none;
+    }
+    .quadro.-maior{
+        width: 250px;
+    }
+    .cabecalho{
+        margin-left: 0px;
+        text-align: left;
+        padding: 0% 1% 0% 10%;
+    }
+
+    .texto_contatos{
+        text-align: center;
+        display: block;
+    }
+    .cabecalho h1{
+        width: 70%;
+    }
+    .tamanho_imagens{
+        height: 30%;
+    }
+    .botao_psocial{
+        margin-top: 30px;
+    }
+    .botao_psocial a{
+        margin-bottom: 30px;
+    }
+    .cojud{
+        display: block;
+        margin: 10px 0px 0px 20%;
+    }
+    .brasao_colorido{
+        display: block;
+        margin: 10px 0px 0px 20%;
+    }
+    .logo_ouvidoria_novo{
+        display: block;
+        margin: 10px 0px 0px 20%;
+    }
+
+
+    
+}
+
+

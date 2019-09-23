@@ -1,0 +1,421 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+a{
+    color: #eba000;
+}
+a:hover{
+    color: #eba000;
+}
+h1{
+    font-family: 'Lato', sans-serif;
+    color: #eba000;
+}
+
+.bg_msg_email{
+    width: 100%;
+    background: #eba000;
+    overflow: hidden;
+}
+
+.alert{
+    margin: 15px auto;
+}
+
+header{
+    display: block;
+    width: 100%;
+    min-height: 357px;
+}
+
+.bg_header{
+    background-image: url("../img/bg_fone.png");
+    width: 860px;
+    height: 357px;
+    float: right;
+    background-size: contain;
+}
+
+.img_bg_header{
+    background-image: url("../img/bg_header.png");
+    width: 550px;
+    height: 357px;
+    float: left;
+}
+.cabecalho{
+    display: inline-block;
+    word-break: break-all;
+    width: 450px;
+    vertical-align: top;
+    margin-left: 17%;
+    margin-top: 30px;
+}
+.cabecalho h1{
+    display: block;
+    margin: 30px 0px 30px 0px;
+    font-size: 26px;
+    width: 370px;
+    color: #888;
+}
+
+.cojud{
+    margin-right: 15px;
+}
+
+.brasao_colorido{
+    margin-right: 15px;
+}
+
+nav{
+    width: 100%;
+    min-height: 200px;
+    background: #eba000;
+    padding: 10px 0px 10px 0px;
+}
+
+nav ul{
+    display: block;
+    margin: 0 auto;
+    padding: 0% 0% 0% 0%;
+    width: 70%;
+}
+
+.quadro{
+    display: inline-block;
+    background: #ffffff;
+    width: 250px;
+    height: 180px;
+    padding: 10px 15px;
+    vertical-align: top;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.quadro.-maior{
+    width: 385px;
+}
+
+.icones{
+    width: 30px;
+    height: 30px;
+    display: block;
+}
+
+nav ul li a{
+    color: #eba000;
+}
+
+nav ul li a:hover{
+    color: #eba000;
+}
+
+nav ul li h1{
+    margin: 5px 0px 5px 0px;
+}
+
+.quadro_maior h1{
+    margin: 15px 0px 5px 0px;
+}
+
+content{
+    display: block;
+}
+
+content p{
+    text-align: justify;
+}
+.conteudo{
+    max-width: 960px;
+}
+
+
+.titulo_figura{
+    background-image: url("../img/bg_titulo.png");
+    background-repeat: no-repeat;
+    width: 75px;
+    height: 91px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+content h1{
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    font-size: 31px;
+    margin-top: -103px;
+    font-weight: 600;
+    margin-left: 36px;
+    color: #eba000;
+}
+
+
+content p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+content span{
+    text-decoration: underline;
+}
+
+.bg_palestrantes .titulo_palestrante{
+    margin-left: 3%;
+    margin-top: -97px;
+}
+
+.palestrantes{
+    padding: 0% 0% 0% 2%;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: flex-start;
+}
+
+
+
+.bg_palestrantes{
+    display: block;
+    background: #f5f5f5;
+    width: 100%;
+    padding-top: 1px;
+    margin-top: 45px;
+}
+
+.palestrantes li{
+    display: inline-block;
+    width: 215px;
+    height: 168px;
+    margin: 50px 15px 50px 0px;
+    text-align: center;
+}
+
+.palestrantes li h3{
+    font-family: 'Lato', sans-serif;
+    margin-top: 10px;
+    display: block;
+    color: #f05a28;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.palestrantes p{
+    display: block;
+}
+
+.foto_nome{
+    display: inline-block;
+}
+
+.titulo_palestrante{
+    display: block;
+    margin-top: -88px;
+}
+
+.coroa{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.img_titulo{
+    display: block;
+    word-break: break-all;
+}
+
+.nome_palestrante{
+    font-size: 22px;
+    float: right;
+    vertical-align: bottom;
+}
+
+section{
+    display: block;
+    width: 100%;
+    min-height: 400px;
+    background: #f5f5f5;
+    padding: 20px 0px 0px 0px;
+    margin-top: -16px;
+}
+
+section h1{
+    display: block;
+    font-family: 'Lato', sans-serif;
+    font-size: 31px;
+    margin-top: -89px;
+    margin-left: 36px;
+    margin-bottom: 30px;
+    color: #eba000;
+}
+
+.cronograma{
+    display: inline-block;
+    width: 48%;
+    min-height: 400px;
+    margin-top: 50px;
+}
+
+.cronograma.-ultimo{
+    padding: 0px;
+    vertical-align: top;
+    margin-left: 2%;
+}
+
+.cronograma h2{
+    display: block;
+    font-family: 'Lato', sans-serif;
+    font-size: 31px;
+    color: #eba000;
+}
+
+.botao_psocial{
+    display: block;
+    width: 100%;
+    margin-top: 80px;
+    background: #f5f5f5;
+    text-align: center;
+}
+
+.botao_psocial .btn-secondary{
+    color: #fff;
+    background-color: #eba000;
+    border-color: #eba000;
+}
+
+.botao_psocial .btn-secondary:hover{
+    background-color: #d39000;
+}
+
+section li{
+    background: #ffffff;
+    list-style-type: none;
+    margin: 0px 0px 5px 0px;
+    width: 96%;
+    border-radius: 5px;
+}
+
+section li p{
+    padding-left: 2%; 
+}
+
+.margin_extra{
+    margin-left: 4%;
+}
+
+section p{
+    margin: 0px;
+}
+
+.right{
+    float: right;
+}
+
+.amarelo{
+    color: #eba000;
+}
+.bg_amarelo{
+    background: #b27900;
+}
+
+.bg_cinza{
+    background: #f5f5f5;
+}
+
+
+.local_evento_hospedagem{
+    display: block;
+    width: 100%;
+    min-height: 500px;
+}
+
+.local_evento_hospedagem p{
+    text-align: justify;
+}
+
+.local_evento_hospedagem h1{
+    display: block;
+    font-family: 'Lato', sans-serif;
+    font-size: 31px;
+    margin-top: -89px;
+    margin-left: 36px;
+    margin-bottom: 90px;
+    color: #eba000;
+}
+
+.local_evento_hospedagem h2{
+    margin-top: 50px;
+}
+
+.local_evento_hospedagem a{
+    color: #eba000;
+}
+
+.local_evento_hospedagem a:hover{
+    color: #eba000;
+}
+
+.margen_superior{
+    margin-top: 30px;
+}
+
+.conteudo th{
+    color: #eba000;
+}
+
+.texto_form{
+    display: block;
+    width: 100%;
+    min-height: 140px;
+}
+.texto_contatos{
+    display: inline-block;
+    vertical-align: top;
+}
+.texto_form form{
+    display: inline-block;
+    margin-left: 10%;
+    width: 55%;
+}
+
+.midias{
+    display: block;
+    min-height: 300px;
+    margin-top: 30px;
+}
+
+.midias a{
+    display: block;
+    min-height: 190px;
+}
+
+.tamanho_imagens{
+    display: inline-block;
+    width: 250px;
+    height: 187px;
+}
+
+.video{
+    display: inline-block;
+    width: 70%;
+}
+
+.fotos{
+    float: right;
+    margin-right: 2%;
+}
+
+footer{
+    height: 170px;
+    text-align: center;
+}
+
+.brasao_tj{
+    margin-top: 25px;
+}
+
+footer .conteudo{
+    margin-top: 20px;
+    /* border-top: 1px solid #e0e0e0;*/
+}
+
+
+
+
+
