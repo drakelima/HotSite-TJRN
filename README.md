@@ -1,7 +1,7 @@
-# HotSite_responsivo
- Hotsite criado para um evento de encontro de ouvidores do Tribunal de Justiça do RN
+## Sobre
+ Hotsite responsivo criado para um evento de encontro de ouvidores do Tribunal de Justiça do RN
  
- ## Tecnologias
+## Tecnologias
  - Photoshop (criação de toda arte respeitando os padrões de design) 
  - HTML 
  - CSS 
